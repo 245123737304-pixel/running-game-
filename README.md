@@ -1,1 +1,1 @@
-# running-game-
+print("hello game")
